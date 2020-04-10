@@ -28,3 +28,18 @@ Course materials for the Data Science online class in SS20.
 Please upload your solutions via Moodle!
 * [Exercise 1](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
 * [Exercise 2](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+
+## Block 2 - Recommender Systems
+
+### Static Slides
+* [Recommender Systems I](Slides/02_a_Recommender_Systems_I.pdf)
+* [Tensor Algebra](Slides/02_b_Tensor_Algebra.pdf )
+* [Recommender Systems II](Slides/02_c_Recommender_Systems_II.pdf)
+* [Use Case](Slides/02_d_Use_Case_Recommender_System.pdf)
+
+### Notebooks
+* [Tensor Algebra](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/02_b_Tensor_Algebra.ipynb)
+* [Use Case](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
+
+
+### Lab
