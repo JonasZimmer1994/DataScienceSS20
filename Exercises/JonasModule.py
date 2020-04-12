@@ -1,3 +1,4 @@
+#Class Listkeeper is a class that provides methods to work with lists.
 class ListKeeper:
 
     #Verwende dictionairy um Listen zu speichern.
@@ -11,7 +12,7 @@ class ListKeeper:
     def show(self):
         keys = []
         for key in self.example:
-            keys.append(key);
+            keys.append(key)
         return keys
 
     #Methode zum Hinzufügen einer Liste
