@@ -8,7 +8,7 @@ class ListKeeper:
     def __init__(self):
         example["listOne"]=[1,2,3,4,5]
 
-    #Methode zum anzeigen aller Listen innerhalb des dictionairys
+    #Methode zum Anzeigen aller Listen innerhalb des dictionairys
     def show(self):
         keys = []
         for key in self.example:
@@ -30,3 +30,7 @@ class ListKeeper:
     #Methode zum Hinzufügen von den Werten list zur Liste name
     def append(self, name, list):
         self.example[name].append(list)
+
+    #Methode zum betrachten der Liste
+    def getList(self, name):
+        return self.example[name]
