@@ -29,7 +29,7 @@ class ListKeeper:
 
     #Methode zum Hinzufügen von den Werten list zur Liste name
     def append(self, name, list):
-        self.example[name].append(list)
+        self.example[name].extend(list)
 
     #Methode zum betrachten der Liste
     def getList(self, name):
