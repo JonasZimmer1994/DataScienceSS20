@@ -26,8 +26,8 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 1_a](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
-* [Exercise 1_b](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+* [Exercise 1_a](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb) [--Solution--](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_a_Solution.ipynb)
+* [Exercise 1_b](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)[ --Solution--](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/1_b-Solution.ipynb)
 
 ## Block 2 - Recommender Systems
 
@@ -74,9 +74,12 @@ Please upload your solutions via Moodle!
 * [Pandas Intro Part 7](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
 
 ### Exercises
-* [Basic Pandas](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
-* [Baby Names](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
-* [Titanic](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
-* [GroupBy I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
-* [GroupBy II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
-* [GroupBy III](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+* [3_a_Basic Pandas](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
+* [3_d_GroupBy I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
+* [3_f_GroupBy III](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+
+
