@@ -82,3 +82,27 @@ Please upload your solutions via Moodle!
 * [3_d_GroupBy I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
 * [3_e_GroupBy II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
 * [3_f_GroupBy III](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+## Block 4 - Machine Learning I-II
+
+### Static Slides
+* [Data Storage](Slides/04_a_Data_Storage.pdf)
+* [Machine Learning I - Intro](Slides/04-b_Machine_Learning_I.pdf)
+* [Machine Learning II - Clustering](Slides/04_c_Machine_Learning_II.pdf)
+* [Scikit-Learn](Slides/04_f_Lab_Scikit-Learn.pdf)
+
+
+### Notebooks
+* [Data Storage](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/04_a_Data_Storage.ipynb)
+* [Use Case: Clustering](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/04_d_UseCase_NY_Taxy_II.ipynb)
+
+### Lab
+* [HDF5](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/04_e_Lab_HDF5.ipynb)
+* [Scikit-Learn](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/04_f_Lab_Scikit_Learn.ipynb)
+
+
+### Exercises
+* [4_g_Clustering_I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
+
+
