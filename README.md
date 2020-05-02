@@ -76,12 +76,12 @@ Please upload your solutions via Moodle!
 * [Pandas Intro Part 7](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
 
 ### Exercises
-* [3_a_Basic Pandas](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
-* [3_b_Baby Names](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
-* [3_c_Titanic](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
-* [3_d_GroupBy I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
-* [3_e_GroupBy II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
-* [3_f_GroupBy III](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+* [3_a_Basic Pandas](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
+* [3_d_GroupBy I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
+* [3_e_GroupBy III](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
 
 ## Block 4 - Machine Learning I-II
 
@@ -104,5 +104,3 @@ Please upload your solutions via Moodle!
 ### Exercises
 * [4_g_Clustering_I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
 * [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
-
-
