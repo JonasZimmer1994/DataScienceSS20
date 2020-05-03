@@ -104,3 +104,19 @@ Please upload your solutions via Moodle!
 ### Exercises
 * [4_g_Clustering_I](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
 * [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
+
+
+## Block 5 - Machine Learning III-IV
+
+### Static Slides
+* [Statistics II](Slides/05_a_Statistics_II.pdf)
+* [Machine Learning III - Naive Bayes](Slides/05_b_Machine_Learning_III_bayes.pdf)
+* [Machine Learning IV - Linear Models](Slides/05_c_Machine_Learning_IV_linear.pdf)
+
+
+### Notebooks
+* [Statistics II](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
+
+### Exercises
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)
