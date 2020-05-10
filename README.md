@@ -129,3 +129,7 @@ Please upload your solutions via Moodle!
 * [Machine Learning V - Non-Linear Models II - SVM](Slides/06_b_Machine_Learning_V_nonlinear_models_part_II.pdf)
 * [Machine Learning VI - Outlier Detection](Slides/06_c_Machine_Learning_VI_outlier_detection.pdf)
 * [Machine Learning VII - Model Selectionn](Slides/06_d_Machine_Learning_VII_Model_Selection.pdf)
+* [Python Lambda Expressions](Slides/06_e_Python_lambda.pdf)
+
+### Notebooks
+* [Python Lambda Expressions](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
