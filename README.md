@@ -133,3 +133,7 @@ Please upload your solutions via Moodle!
 
 ### Notebooks
 * [Python Lambda Expressions](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
+
+### Exercises
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/JonasZimmer1994/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)
